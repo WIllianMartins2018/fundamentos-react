@@ -1,2 +1,2 @@
 # Projeto
-  Esse projeto foi criado com o objetivo de melhorar assim meus conhecimentos sobre o React!
+  Esse projeto foi criado com o objetivo de melhorar meus conhecimentos sobre o React!
